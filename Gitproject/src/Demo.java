@@ -9,8 +9,9 @@ public class Demo {
 	public static void main(String[] args) {
 		
 		System.out.println("this is git project");
-		Demo d=new Demo()'
+		Demo d=new Demo();
 			d.m1();
+			System.out.println("done pull");
 	}
 
 }
