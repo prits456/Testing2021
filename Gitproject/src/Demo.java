@@ -12,6 +12,8 @@ public class Demo {
 		Demo d=new Demo();
 			d.m1();
 			System.out.println("done pull");
+		System.out.println("done push");
+		
 	}
 
 }
